@@ -1,0 +1,15 @@
+/Users/sama-seijuuro-jin-sakai-shin/Desktop/Project/C# Certification/SECOND_Part_C#-Certification/Second_Part-Project-C#/bin/Debug/net9.0/Second_Part-Project-C#
+/Users/sama-seijuuro-jin-sakai-shin/Desktop/Project/C# Certification/SECOND_Part_C#-Certification/Second_Part-Project-C#/bin/Debug/net9.0/Second_Part-Project-C#.deps.json
+/Users/sama-seijuuro-jin-sakai-shin/Desktop/Project/C# Certification/SECOND_Part_C#-Certification/Second_Part-Project-C#/bin/Debug/net9.0/Second_Part-Project-C#.runtimeconfig.json
+/Users/sama-seijuuro-jin-sakai-shin/Desktop/Project/C# Certification/SECOND_Part_C#-Certification/Second_Part-Project-C#/bin/Debug/net9.0/Second_Part-Project-C#.dll
+/Users/sama-seijuuro-jin-sakai-shin/Desktop/Project/C# Certification/SECOND_Part_C#-Certification/Second_Part-Project-C#/bin/Debug/net9.0/Second_Part-Project-C#.pdb
+/Users/sama-seijuuro-jin-sakai-shin/Desktop/Project/C# Certification/SECOND_Part_C#-Certification/Second_Part-Project-C#/obj/Debug/net9.0/Second_Part-Project-C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sama-seijuuro-jin-sakai-shin/Desktop/Project/C# Certification/SECOND_Part_C#-Certification/Second_Part-Project-C#/obj/Debug/net9.0/Second_Part-Project-C#.AssemblyInfoInputs.cache
+/Users/sama-seijuuro-jin-sakai-shin/Desktop/Project/C# Certification/SECOND_Part_C#-Certification/Second_Part-Project-C#/obj/Debug/net9.0/Second_Part-Project-C#.AssemblyInfo.cs
+/Users/sama-seijuuro-jin-sakai-shin/Desktop/Project/C# Certification/SECOND_Part_C#-Certification/Second_Part-Project-C#/obj/Debug/net9.0/Second_Part-Project-C#.csproj.CoreCompileInputs.cache
+/Users/sama-seijuuro-jin-sakai-shin/Desktop/Project/C# Certification/SECOND_Part_C#-Certification/Second_Part-Project-C#/obj/Debug/net9.0/Second_Part-Project-C#.sourcelink.json
+/Users/sama-seijuuro-jin-sakai-shin/Desktop/Project/C# Certification/SECOND_Part_C#-Certification/Second_Part-Project-C#/obj/Debug/net9.0/Second_Part-Project-C#.dll
+/Users/sama-seijuuro-jin-sakai-shin/Desktop/Project/C# Certification/SECOND_Part_C#-Certification/Second_Part-Project-C#/obj/Debug/net9.0/refint/Second_Part-Project-C#.dll
+/Users/sama-seijuuro-jin-sakai-shin/Desktop/Project/C# Certification/SECOND_Part_C#-Certification/Second_Part-Project-C#/obj/Debug/net9.0/Second_Part-Project-C#.pdb
+/Users/sama-seijuuro-jin-sakai-shin/Desktop/Project/C# Certification/SECOND_Part_C#-Certification/Second_Part-Project-C#/obj/Debug/net9.0/Second_Part-Project-C#.genruntimeconfig.cache
+/Users/sama-seijuuro-jin-sakai-shin/Desktop/Project/C# Certification/SECOND_Part_C#-Certification/Second_Part-Project-C#/obj/Debug/net9.0/ref/Second_Part-Project-C#.dll
